@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    font-size: 25px;
+    font-family: "Impact", Charcoal, sans-serif;
+    color: wheat;
+}
+
+#arnie_gif {
+    height: 530px;
+    width: 640px;
+}
+
+div#arnie_eating {
+    font-family: "Impact", Charcoal, sans-serif;
+    text-align: center;
+    color: wheat;
+}
+
+div#scroll_box {
+    text-align: center;
+    margin: auto;
+    left: 50%;
+    font-family: "Impact", Charcoal, sans-serif;
+    text-align: center;
+    color: wheat;
+    width: 660px;
+}
+
+#scroll_box_pics {
+    height: 500px;
+    width: 660px;
+}
+
+.bottomnav {
+    margin: auto;
+    left: 50%;
+    text-align: center;
+    font-size: 25px;
+    color: wheat;
+}
+
+#button {
+    height: 75px;
+    width: 200px;
+    font-family: "Impact", Charcoal, sans-serif;
+    font-size: 20px;
+    font-style: gold;
+}
